@@ -1,5 +1,5 @@
 {
-  "name": "material-ui-build-next",
+  "name": "material-ui-next",
   "private": true,
   "author": "Material-UI Team",
   "version": "1.0.0-beta.26",
@@ -13,11 +13,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mui-org/material-ui.git"
+    "url": "https://github.com/tariqwest/material-ui.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mui-org/material-ui/issues"
+    "url": "https://github.com/tariqwest/material-ui/issues"
   },
   "homepage": "http://material-ui.com/",
   "scripts": {
